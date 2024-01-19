@@ -88,6 +88,7 @@ char  *clean_line(char *content);
 void f_rotl(stack_t **head, unsigned int counter);
 void f_add(stack_t **stack, unsigned int line_number);
 void f_queue(stack_t **stack, unsigned int line_number);
+void f_push(stack_t **stack, unsigned int line_number);
 
 
 
